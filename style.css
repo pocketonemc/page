@@ -1,0 +1,41 @@
+body {
+background-image : url("webbg.png");
+}
+.menu {
+    background-color: #f8f9fa!
+
+}
+.block {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #000!important;
+    background-color: rgba(0,0,0,0.05)!important;
+    border-bottom: 4px solid #000!important;
+    width: 100px;
+    background-color: #FF8000!important;
+    
+}
+
+.blockb {
+    width: 100px;
+}
+.btn {
+    border: none;
+    height: 50px;
+    width: 250px;
+    margin: 10px 0;
+    padding: 0 10px;
+    font-size: 1rem;
+    outline: none;
+    text-align: center;
+    border-radius: 5px;
+    background-color: red;
+    cursor: pointer;
+}
+.a {
+    width: 50%;
+}
+h {
+    height: 50%;
+    color: green;
+}
