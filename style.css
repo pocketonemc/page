@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100&family=Roboto+Mono:wght@100&display=swap');
 body {
 background-image : url("webbg.png");
+font-family: 'Kanit', sans-serif;
 }
 .menu {
     background-color: #f8f9fa!
@@ -34,8 +36,4 @@ background-image : url("webbg.png");
 }
 .a {
     width: 50%;
-}
-h {
-    height: 50%;
-    color: green;
 }
